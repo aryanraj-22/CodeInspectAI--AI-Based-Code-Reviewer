@@ -29,6 +29,5 @@
 <h3>🌐 Frontend</h3>
 <ul>
   <li><strong>React.js</strong></li>
-  <li><strong>TailwindCSS</strong></li>
   <li><strong>react-simple-code-editor</strong> + <strong>prismjs</strong> for syntax highlighting</li>
 </ul>
